@@ -15,7 +15,7 @@ This project uses OpenCV which is a computer vision and machine learning library
 
 Results
 ------------------------
-[Result](Coin5.jpg)
+![Result](Coin5.jpg)
 
 
 How To Run
